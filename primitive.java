@@ -1,6 +1,6 @@
-class primitive 
+class primitive
 {
-	static byte a;					
+	static byte a;
 	static short b;
 	static int c;
 	static long d;
@@ -10,7 +10,7 @@ class primitive
 	static boolean h;
 
 
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
 		System.out.println(a);
 		System.out.println(b);
