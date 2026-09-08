@@ -1,0 +1,9 @@
+class rule2 
+{
+	int a=10;
+	char a=java;
+	public static void main(String[] args) 
+	{
+		System.out.println("a");
+	}
+}
